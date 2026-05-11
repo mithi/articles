@@ -22,6 +22,7 @@ The goal isn't to manipulate people into agreement. It's to create conditions wh
 
 ## Principles Based on Psychology Research
 
+
 ### 1. Keep it concise and plain
 Use brief, simple, conversational language. Formal or academic wording can sound preachy, performative, or status-seeking. Research also shows that when a message is difficult to process, readers subconsciously judge the author as less intelligent and the message as less credible.
 *(Oppenheimer, 2006)*
@@ -50,7 +51,7 @@ Questions engage reasoning better than assertions. The same exact point often la
 
 
 ### 7. Avoid language that puts the person's identity on trial
-Use wordings that protect the person's sense of competence, intelligence, and moral character. Even subtle signals of accusation or superiority can shift attention from the idea to self-defense. Example: name the noticed tendency as something anyone could fall into.
+Use wordings that protect the person's sense of competence, intelligence, and moral character. Even subtle signals of accusation or superiority can shift attention from the idea to self-defense. Example: you can name a noticed tendency as something anyone could fall into.
 *(Wenzel, Woodyatt, & McLean, 2020)*
 
 
