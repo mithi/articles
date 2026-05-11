@@ -1,94 +1,147 @@
-# Cognitive Roles to Help Fight Common Thinking Traps 
+# How to invite reflection instead of triggering defensiveness 
 
-- Introduction 
-- Example Claim and User Response
-- The Eight Cognitive Roles and How They'd Respond
-- Reasoning Behind Choosing These Roles
-- References 
+- Introduction
+- Principles Based on Psychology Research
+- Concrete Examples (Rethink/Consider)
+- Nuance to Note 
+- References
 
-## Introduction 
+## Introduction
+People often arrive at beliefs intuitively first, then reason about them afterward. Direct counter arguments often backfire, making people defend the belief more strongly. 
 
-These eight roles were designed to help users look at claims from different angles instead of sticking to just one perspective.
+> What Haidt (2001) calls "Hume's perverse thesis": moral emotions and intuitions drive moral reasoning, just as surely as a dog wags its tail.
 
-The framework looks at things like a claim’s logic, evidence, framing, historical comparisons, overlooked groups, and ignored alternatives. These eight cognitive roles were created by combining ideas from cognitive psychology, argumentation theory, media studies, and meta-science.
+**So what works instead?** 
 
-## Example Claim and User Response
+Speak like a thoughtful friend exploring ideas together, not a debate opponent trying to score points. Friends get listened to. Opponents get countered. 
 
-The Claim (presented here as a hypothetical social-media post)
-> MIT brain scan / ChatGPT
-BREAKING: MIT just completed the first brain scan study of ChatGPT users & the results are terrifying. Turns out, AI isn't making us more productive. It's making us cognitively bankrupt.
+Approach the conversation with real interest in their reasoning and evidence, not just as a vehicle to deliver your point.
 
-The User's Response
-> This makes me think twice about how much I'm using ChatGPT for my work. I do feel like my writing has gotten worse since I started leaning on it for first drafts. The brain scan finding is alarming. We're outsourcing thinking and the cost will show up soon.
-
-## The Eight Cognitive Roles and How They'd Respond
-
-### 1. Charitable Reader (@MrCharity) 
-Articulates the strongest version of the user’s own view 
-
-> Example 👉 I get why you're worried. When I let ChatGPT write my first drafts, my own writing feels weaker too. It feels like we're skipping the hard thinking practice, and that might hurt us later. The brain scan makes it scarier if it's real.
-
-### 2. Steelmanner (@MrSteel)
-Articulates the strongest case opposing the user’s view
-
-> Example 👉 People said the same thing about calculators and Google. 'Our brains will get weak!' But each time, we dropped the boring stuff and did harder, smarter work, didn't we?
-
-### 3. Perspective Shifter (@TheUnconsidered)
-Surfaces a stakeholder the framing makes invisible 
-
-> Example 👉 I'm trying to put myself in the shoes of people who struggle with English or have disabilities. It's likely that ChatGPT helps them write clearly and join in. It might actually give them more brain power, not less.
-
-### 4. Historian (@TheGreatHistorian)
-Offers a precedent paired with structural differences that limit the analogy 
-
-> Example 👉 Plato worried writing would weaken memory. Similar fears hit the printing press, calculators. In all those times, we ended up doing way more knowledge work. But AI creates stuff, so it's a bit different.
-
-### 5. Warrant Surfacer (@MsAssumption)
-Names the unstated bridging assumption between evidence and claim
-
-> Example 👉 The study jumps from 'less brain activity' to 'we're getting dumb.' But maybe less activity just means the brain is working smarter, not worse. We don’t know yet.
-
-### 6. Empiricist (@MrsFactFinder)
-Points to evidence that would clarify, confirm, or undermine the claim 
-
-> Example 👉 We need longer studies that follow real people for months. Check their actual writing, ideas, and work quality with and without AI. One brain scan isn’t enough.
-
-### 7. Frame Skeptic (@WordWatcher)
-
-Surfaces charged or load-bearing language doing covert cognitive work 
-
-> Example 👉 Words like "terrifying" and "cognitively bankrupt." make the problem sound extreme. They can make normal tool use sound like a disaster instead of just a normal trade-off.
-
-### 8. Conceptual Clarifier (@PrecisionQueen)
-Surfaces vague or equivocal terms 
-
-> Example 👉 What does “thinking” mean here, exactly? Writing less from scratch is not automatically the same as thinking less, right? I mean, to me, thinking is the process of understanding, judging, and refining ideas — not merely typing every word yourself.
+The goal isn't to manipulate people into agreement. It's to create conditions where reflection is possible. 
 
 
-## Reasoning Behind Choosing These Roles
-
-The Fairness Roles (Charitable Reader, Steelmanner) are based on research showing that people become less biased when they actively consider the strongest version of opposing views (Lord et al., 1984; Stanovich et al., 2013).
-
-The Broadening Roles (Perspective Shifter, Historian) come from studies on recurring technology panics and perspective-taking. They help users think about historical context and stakeholders that are often overlooked (Orben, 2020; Galinsky & Moskowitz, 2000).
-
-The Precision Roles (Warrant Surfacer, Conceptual Clarifier, Frame Skeptic, Empiricist) are based on research about framing (Entman, 1993), Toulmin-style argument analysis (Verheij, 2005), and meta-science work on the reliability of single studies (Ioannidis, 2005). Together, these roles help users uncover hidden assumptions, clarify vague terms, spot loaded language, and ask for stronger evidence.
+## Principles Based on Psychology Research
 
 
-## References 
+### 1. Keep it concise and plain
+Use brief, simple, conversational language. Formal or academic wording can sound preachy, performative, or status-seeking. Research also shows that when a message is difficult to process, readers subconsciously judge the author as less intelligent and the message as less credible.
+*(Oppenheimer, 2006)*
 
-Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication, 43(4), 51–58. https://doi.org/10.1111/j.1460-2466.1993.tb01304.x
+### 2. Offer considerations, not conclusions or critiques
+People are often better at judging arguments than being argued into changing their minds. Give them something concrete to think about, not a verdict to accept or reject. Let them reach the conclusion themselves.
+*(Mercier & Sperber, 2011; Tanprasert et al., 2024)*
 
-Galinsky, A. D., & Moskowitz, G. B. (2000). Perspective-taking: Decreasing stereotype expression, stereotype accessibility, and in-group favoritism. Journal of Personality and Social Psychology, 78(4), 708–724. https://doi.org/10.1037/0022-3514.78.4.708
-
-Ioannidis, J. P. A. (2005). Why most published research findings are false. PLoS Medicine, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124
-
-Lord, C. G., Lepper, M. R., & Preston, E. (1984). Considering the opposite: A corrective strategy for social judgment. Journal of Personality and Social Psychology, 47(6), 1231–1243. https://doi.org/10.1037/0022-3514.47.6.1231
-
-Orben, A. (2020). The Sisyphean cycle of technology panics. Perspectives on Psychological Science, 15(5), 1143–1157. https://doi.org/10.1177/1745691620919372
-
-Stanovich, K. E., West, R. F., & Toplak, M. E. (2013). Myside bias, rational thinking, and intelligence. Current Directions in Psychological Science, 22(4), 259–264. https://doi.org/10.1177/0963721413480174
-
-Verheij, B. (2005). Evaluating arguments based on Toulmin's scheme. Argumentation, 19(3), 347–371. https://doi.org/10.1007/s10503-005-4421-z
+### 3. Acknowledge before adding nuance or pushing back
+Before introducing complications or pushing back, acknowledge what's valid in their view — the real worry, the legitimate point, the value driving it. People engage far more once they feel heard.
+*(Itzchakov, Kluger, & Castro, 2017)*
 
 
+### 4. Describe what you notice, don't evaluate or correct
+Share specific observations rather than telling someone what to think. Focus on what you're noticing, not on judging what they're doing wrong.
+*(Itzchakov, Kluger, & Castro, 2017)*
 
+
+### 5. Prefer openness over certainty
+Tentative language (*"it might be worth…"* instead of *"it's important to…"*) preserves the person's sense of autonomy and keeps thinking open. Forceful claims tend to trigger reactance.
+*(Dillard & Shen, 2005)*
+ 
+### 6. Frame substance as questions if appropriate
+Questions engage reasoning better than assertions. The same exact point often lands better when offered as something to consider. Genuine curiosity matters, rhetorical or leading questions often feel just as confrontational as direct assertions.
+*(Danry et al., 2023)*
+
+
+### 7. Avoid language that puts the person's identity on trial
+Use wordings that protect the person's sense of competence, intelligence, and moral character. Even subtle signals of accusation or superiority can shift attention from the idea to self-defense. Example: you can name a noticed tendency as something anyone could fall into.
+*(Wenzel, Woodyatt, & McLean, 2020)*
+
+
+## Concrete Examples (Rethink/Consider)
+
+### 1. Keep it concise and plain
+
+🤔 **Rethink**
+>  The methodological limitations of the cited neuroimaging paradigm warrant epistemic caution before extrapolating to claims of cognitive deterioration.
+
+
+💡 **Consider** 
+>  Worth checking what the study actually measured — brain activity during one task isn't the same thing as long-term cognitive decline, right?
+
+### 2. Offer considerations, not conclusions or critiques
+
+🤔 **Rethink**
+> History proves that every new technology causes a moral panic, and this is just another one.
+
+💡 **Consider** 
+
+> People said similar things about novels and radio. I wonder what's unique about TikTok this time.
+
+### 3. Acknowledge before adding nuance or pushing back
+
+🤔 **Rethink**
+
+> Those screen time studies are oversold. They mix together totally different kinds of use.
+
+💡 **Consider** 
+
+> Yeah, those numbers do look alarming — I get the worry. Though I wonder: do they count scrolling alone the same as video-calling a friend?
+
+### 4. Describe what you notice, don't evaluate or correct
+
+🤔 **Rethink**
+> What you shared cherry-picks the worst stories.
+
+💡 **Consider** 
+
+> I noticed most of the examples here are the really dramatic ones. Were there any milder stories too?
+> 
+### 5. Prefer openness over certainty
+
+🤔 **Rethink**
+> Video games definitely don't make kids violent. That myth is dead.
+
+💡 **Consider** 
+> It seems like the link between games and violence looks pretty weak — though I'm not sure all the studies agree.
+
+### 6. Frame substance as questions if appropriate
+
+🤔 **Rethink**
+> People who work from home aren't actually more productive — they just like the freedom.
+
+
+💡 **Consider** 
+> Is working from home really more productive, or do people just like it more? Maybe a bit of both?
+
+
+### 7. Avoid language that puts the person's identity on trial
+
+🤔 **Rethink**
+> You're giving too much weight to examples that are personally emotionally relevant to you, rather than considering the full range of evidence.
+
+💡 **Consider** 
+> It's easy for any of us to lean toward evidence that fits our experience. I catch myself doing that a lot.
+
+## Nuance to Note
+
+These techniques shine in good-faith conversations. In some situations (clear bad faith, manipulation, repeated dishonesty, or high-stakes immediate decisions), more direct challenge is sometimes necessary.
+
+None of these approaches guarantees agreement. People can still reject evidence, double down, or disengage. But conversations tend to go better when people feel respected, autonomous, and understood.
+
+Reflection is hard to force. Often the best we can do is make it easier.
+
+## References
+ 
+Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review, 108*(4), 814–834. https://doi.org/10.1037/0033-295X.108.4.814
+
+Oppenheimer, D. M. (2006). Consequences of erudite vernacular utilized irrespective of necessity: Problems with using long words needlessly. *Applied Cognitive Psychology, 20*(2), 139–156. https://doi.org/10.1002/acp.1178
+
+Mercier, H., & Sperber, D. (2011). Why do humans reason? Arguments for an argumentative theory. *Behavioral and Brain Sciences, 34*(2), 57–74. https://doi.org/10.1017/S0140525X10000968
+
+Tanprasert, T., Fels, S. S., Sinnamon, L., & Yoon, D. (2024). Debate chatbots to facilitate critical thinking on YouTube: Social identity and conversational style make a difference. *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems,* Article 805, 1–24. https://doi.org/10.1145/3613904.3642513
+
+Itzchakov, G., Kluger, A. N., & Castro, D. R. (2017). I am aware of my inconsistencies but can tolerate them: The effect of high quality listening on speakers' attitude ambivalence. *Personality and Social Psychology Bulletin, 43*(1), 105–120. https://doi.org/10.1177/0146167216675339
+
+Dillard, J. P., & Shen, L. (2005). On the nature of reactance and its role in persuasive health communication. *Communication Monographs, 72*(2), 144–168. https://doi.org/10.1080/03637750500111815
+
+Danry, V., Pataranutaporn, P., Mao, Y., & Maes, P. (2023). Don't just tell me, ask me: AI systems that intelligently frame explanations as questions improve human logical discernment accuracy over causal AI explanations. *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems,* Article 352, 1–13. https://doi.org/10.1145/3544548.3580672
+
+Wenzel, M., Woodyatt, L., & McLean, B. (2020). The effects of moral/social identity threats and affirmations on psychological defensiveness following wrongdoing. *British Journal of Social Psychology, 59*(4), 1062–1081. https://doi.org/10.1111/bjso.12378
