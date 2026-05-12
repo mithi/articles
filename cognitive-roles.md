@@ -2,13 +2,13 @@
 
 - Introduction 
 - Example Claim and User Response
-- The Eight Cognitive Roles and How They'd Respond
+- These Cognitive Roles and How They'd Respond
 - Reasoning Behind Choosing These Roles
 - References 
 
 ## Introduction 
 
-These eight roles were designed to help users look at claims from different angles instead of sticking to just one perspective.
+These cognitive roles were designed to help users look at claims from different angles instead of sticking to just one perspective.
 
 The framework looks at things like a claim’s logic, evidence, framing, historical comparisons, overlooked groups, and ignored alternatives. These eight cognitive roles were created by combining ideas from cognitive psychology, argumentation theory, media studies, and meta-science.
 
