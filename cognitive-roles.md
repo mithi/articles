@@ -2,15 +2,13 @@
 
 - Introduction 
 - Example Claim and User Response
-- These Cognitive Roles and How They'd Respond
-- Reasoning Behind Choosing These Roles
+- The Cognitive Roles and How They'd Respond
+- Reasoning Behind The Role's Design
 - References 
 
 ## Introduction 
 
-These cognitive roles were designed to help users look at claims from different angles instead of sticking to just one perspective.
-
-The framework looks at things like a claim’s logic, evidence, framing, historical comparisons, overlooked groups, and ignored alternatives. These eight cognitive roles were created by combining ideas from cognitive psychology, argumentation theory, media studies, and meta-science.
+These cognitive roles were designed to help users examine claims from multiple perspectives instead of defaulting to their usual viewpoint. They explore the claim’s logic, evidence, framing, historical comparisons, overlooked groups, ignored alternatives, and other relevant dimensions. The roles were created by combining ideas from cognitive psychology, argumentation theory, media studies, and meta-science.
 
 ## Example Claim and User Response
 
@@ -21,15 +19,15 @@ BREAKING: MIT just completed the first brain scan study of ChatGPT users & the r
 The User's Response
 > This makes me think twice about how much I'm using ChatGPT for my work. I do feel like my writing has gotten worse since I started leaning on it for first drafts. The brain scan finding is alarming. We're outsourcing thinking and the cost will show up soon.
 
-## The Eight Cognitive Roles and How They'd Respond
+## The Cognitive Roles and How They'd Respond
 
 ### 1. Charitable Reader (@MrCharity) 
-Articulates the strongest version of the user’s own view 
+Presents a clear, fair, and robust version of the user’s view. 
 
 > Example 👉 I get why you're worried. When I let ChatGPT write my first drafts, my own writing feels weaker too. It feels like we're skipping the hard thinking practice, and that might hurt us later. The brain scan makes it scarier if it's real.
 
 ### 2. Steelmanner (@MrSteel)
-Articulates the strongest case opposing the user’s view
+Presents a clear, fair, and robust version of the argument against the user’s view
 
 > Example 👉 People said the same thing about calculators and Google. 'Our brains will get weak!' But each time, we dropped the boring stuff and did harder, smarter work, didn't we?
 
@@ -48,7 +46,7 @@ Names the unstated bridging assumption between evidence and claim
 
 > Example 👉 The study jumps from 'less brain activity' to 'we're getting dumb.' But maybe less activity just means the brain is working smarter, not worse. We don’t know yet.
 
-### 6. Empiricist (@MrsFactFinder)
+### 6. Empiricist (@MrsEvidence)
 Points to evidence that would clarify, confirm, or undermine the claim 
 
 > Example 👉 We need longer studies that follow real people for months. Check their actual writing, ideas, and work quality with and without AI. One brain scan isn’t enough.
@@ -65,7 +63,7 @@ Surfaces vague or equivocal terms
 > Example 👉 What does “thinking” mean here, exactly? Writing less from scratch is not automatically the same as thinking less, right? I mean, to me, thinking is the process of understanding, judging, and refining ideas — not merely typing every word yourself.
 
 
-## Reasoning Behind Choosing These Roles
+## Reasoning Behind The Role's Design
 
 The Fairness Roles (Charitable Reader, Steelmanner) are based on research showing that people become less biased when they actively consider the strongest version of opposing views (Lord et al., 1984; Stanovich et al., 2013).
 
