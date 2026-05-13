@@ -3,7 +3,7 @@
 - Introduction 
 - Example Claim and User Response
 - The Cognitive Roles and How They'd Respond
-- Reasoning Behind The Role's Design
+- Reasoning Behind The Role Designs
 - References 
 
 ## Introduction 
@@ -63,7 +63,7 @@ Surfaces vague or equivocal terms
 > Example 👉 What does “thinking” mean here, exactly? Writing less from scratch is not automatically the same as thinking less, right? I mean, to me, thinking is the process of understanding, judging, and refining ideas — not merely typing every word yourself.
 
 
-## Reasoning Behind The Role's Design
+## Reasoning Behind The Role Designs
 
 The Fairness Roles (Charitable Reader, Steelmanner) are based on research showing that people become less biased when they actively consider the strongest version of opposing views (Lord et al., 1984; Stanovich et al., 2013).
 
