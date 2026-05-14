@@ -1,16 +1,16 @@
 # Cognitive Roles to Help Fight Common Thinking Traps 
 
 - Introduction 
-- Example Claim and User Response
+- Example Claim, Context, and User Response
 - The Cognitive Roles and How They'd Respond
-- Reasoning Behind The Role Designs
+- The Reasoning Behind The Role Designs
 - References 
 
 ## Introduction 
 
 These cognitive roles were designed to help users examine claims from multiple perspectives instead of defaulting to their usual viewpoint. They explore the claim’s logic, evidence, framing, historical comparisons, overlooked groups, ignored alternatives, and other relevant dimensions. The roles were created by combining ideas from cognitive psychology, argumentation theory, media studies, and meta-science.
 
-## Example Claim and User Response
+## Example Claim, Context, and User Response
 
 The Claim (presented here as a hypothetical social-media post)
 > MIT brain scan / ChatGPT
@@ -66,7 +66,7 @@ Surfaces vague or equivocal terms
 > Example 👉 What does “thinking” mean here, exactly? Writing less from scratch is not automatically the same as thinking less, right? I mean, to me, thinking is the process of understanding, judging, and refining ideas — not merely typing every word yourself.
 
 
-## Reasoning Behind The Role Designs
+## The Reasoning Behind The Role Designs
 
 The Fairness Roles (Charitable Reader, Steelmanner) are based on research showing that people become less biased when they actively consider the strongest version of opposing views (Lord et al., 1984; Stanovich et al., 2013).
 
