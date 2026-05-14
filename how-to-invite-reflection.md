@@ -3,13 +3,13 @@
 - Introduction
 - Principles Based on Psychology Research
 - Concrete Examples (Rethink/Consider)
-- Nuance to Note 
+- Important Note 
 - References
 
 ## Introduction
-People often arrive at beliefs intuitively first, then reason about them afterward. Direct counter arguments often backfire, making people defend the belief more strongly. 
+People often arrive at beliefs intuitively first, then reason about them afterward. Direct counter arguments often backfire, making people defend the belief more strongly. *(Haidt 2001, J. P. Dillard and L. Shen, 2005)*
 
-> What Haidt (2001) calls "Hume's perverse thesis": moral emotions and intuitions drive moral reasoning, just as surely as a dog wags its tail.
+> Moral emotions and intuitions drive moral reasoning, just as surely as a dog wags its tail.
 
 **So what works instead?** 
 
@@ -46,13 +46,11 @@ Tentative language (*"it might be worth…"* instead of *"it's important to…"*
 *(Dillard & Shen, 2005)*
  
 ### 6. Frame substance as questions if appropriate
-Questions engage reasoning better than assertions. The same exact point often lands better when offered as something to consider. Genuine curiosity matters, rhetorical or leading questions often feel just as confrontational as direct assertions.
-*(Danry et al., 2023)*
+Questions engage reasoning better than assertions. The same exact point often lands better when offered as something to consider. Genuine curiosity matters, rhetorical or leading questions often feel just as confrontational as direct assertions. *(Danry et al., 2023)*
 
 
 ### 7. Avoid language that puts the person's identity on trial
-Use wordings that protect the person's sense of competence, intelligence, and moral character. Even subtle signals of accusation or superiority can shift attention from the idea to self-defense. Example: you can name a noticed tendency as something anyone could fall into.
-*(Wenzel, Woodyatt, & McLean, 2020)*
+Use wordings that protect the person's sense of competence, intelligence, and moral character. Even subtle signals of accusation or superiority can shift attention from the idea to self-defense. *(Wenzel, Woodyatt, & McLean, 2020)*
 
 
 ## Concrete Examples (Rethink/Consider)
@@ -83,7 +81,7 @@ Use wordings that protect the person's sense of competence, intelligence, and mo
 
 💡 **Consider** 
 
-> Yeah, those numbers do look alarming — I get the worry. Though I wonder: do they count scrolling alone the same as video-calling a friend?
+> Yeah, those numbers do look alarming — I get the worry. Though treating doomscrolling and video-calling friends as the same kind of ‘screen time’ feels a bit reductive. What do you think?
 
 ### 4. Describe what you notice, don't evaluate or correct
 
@@ -93,7 +91,7 @@ Use wordings that protect the person's sense of competence, intelligence, and mo
 💡 **Consider** 
 
 > I noticed most of the examples here are the really dramatic ones. Were there any milder stories too?
-> 
+
 ### 5. Prefer openness over certainty
 
 🤔 **Rethink**
@@ -120,7 +118,7 @@ Use wordings that protect the person's sense of competence, intelligence, and mo
 💡 **Consider** 
 > It's easy for any of us to lean toward evidence that fits our experience. I catch myself doing that a lot.
 
-## Nuance to Note
+## Important Note
 
 These techniques shine in good-faith conversations. In some situations (clear bad faith, manipulation, repeated dishonesty, or high-stakes immediate decisions), more direct challenge is sometimes necessary.
 
@@ -131,6 +129,8 @@ Reflection is hard to force. Often the best we can do is make it easier.
 ## References
  
 Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review, 108*(4), 814–834. https://doi.org/10.1037/0033-295X.108.4.814
+
+J. P. Dillard and L. Shen (2005). On the nature of reactance and its role in persuasive health communication, Commun. Monogr., vol. 72, no. 2, pp. 144–168. https://doi.org/10.1080/03637750500111815
 
 Oppenheimer, D. M. (2006). Consequences of erudite vernacular utilized irrespective of necessity: Problems with using long words needlessly. *Applied Cognitive Psychology, 20*(2), 139–156. https://doi.org/10.1002/acp.1178
 
