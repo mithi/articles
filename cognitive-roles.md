@@ -16,6 +16,9 @@ The Claim (presented here as a hypothetical social-media post)
 > MIT brain scan / ChatGPT
 BREAKING: MIT just completed the first brain scan study of ChatGPT users & the results are terrifying. Turns out, AI isn't making us more productive. It's making us cognitively bankrupt.
 
+The Context 
+> A 2025 MIT Media Lab preprint (n=54) measured EEG during essay writing across four sessions. LLM users showed lower neural connectivity than the Brain-only and Search Engine groups. Preliminary findings (not peer-reviewed).
+
 The User's Response
 > This makes me think twice about how much I'm using ChatGPT for my work. I do feel like my writing has gotten worse since I started leaning on it for first drafts. The brain scan finding is alarming. We're outsourcing thinking and the cost will show up soon.
 
