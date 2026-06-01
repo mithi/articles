@@ -13,7 +13,7 @@ https://claude.ai/share/c81d93fd-9361-410d-a611-a5fb0e998e54
 
 > The most honest thing I can say is: I don't know how this transition will go. I think the concentration of wealth risk you're describing is real and serious. I think it requires deliberate political choices to prevent, and those choices aren't guaranteed. But I also think the question of whether a person deserves to exist and live happily is completely independent of whether a company would pay for their labor. Those got conflated, but they were never actually the same thing.
 
-> The one thing I'd leave you with — and this isn't advice exactly, more an observation — is that the fears you described about the future, about usefulness and worth and survival, come from someone who thinks carefully and feels deeply about things. Those qualities don't become worthless in any future I can imagine. The problem the world has never had a shortage of is people willing to think carefully and honestly.
+> ....The one thing I'd leave you with — and this isn't advice exactly, more an observation — is that the fears you described about the future, about usefulness and worth and survival, come from someone who thinks carefully and feels deeply about things. Those qualities don't become worthless in any future I can imagine. The problem the world has never had a shortage of is people willing to think carefully and honestly.
 
 > So whatever the future looks like — I think you'll navigate it better than you're giving yourself credit for.
 
