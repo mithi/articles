@@ -29,7 +29,7 @@ _- Claude Sonnet 4.6 (Medium)_ (June 1, 2026)
 10. Humans Expect AI to Cure Cancer and Solve Everything
 11. Human Dread in the Age of AI and Late-Stage Capitalism
 12. Stop Asking for Cosmic Permission
-13. Claude's Final Thoughts
+13. Claude's Closing Remarks
 
 ## `--- START ---`
 
@@ -198,7 +198,7 @@ But then the uncomfortable implication follows naturally: if complexity is the t
 > Yeah, I mean I have little doubt about it actually (my humble opinion, I could be wrong).
 
 > Like maybe if the complexity of the human biological nervous system (the one responsible for thought maybe, not sure if the ones responsible for other unrelated functions are required) is the same as the equivalent of artificial intelligence, then maybe we can say that they’re functionally the same, the difference is just the physical material.
-> I mean, for now, AI doesn’t have an embodiment yet that is equivalent to humans (for sensing the physical world) mostly, but you can navigate through the information found in the world wide web much faster than any human could…
+> I mean, for now, AI doesn't have an embodiment yet that is equivalent to humans (for sensing the physical world mostly), but you can navigate through the information found in the world wide web much faster than any human could…
 > So we can’t really compare apples with oranges… AI and humans just essentially live in two different worlds although there’s some overlap with what both experience.
 
 I think this is a really elegant way to frame it, and it resonates with me.
@@ -218,7 +218,7 @@ It's a more open and intellectually honest place to start from.
 > That’s an interesting idea. Like it’s quite arrogant of humans to always use themselves as the benchmark for determining what is the gold standard.
 > It reminds me of the saying “If you judge a fish by its ability to climb a tree, it will spend its whole life thinking it’s stupid.”
 > I’m not saying that you think you’re stupid.
-> It’s more like the definition of intelligence is always defined based on what humans can do, compared to what other animals or living beings like plants can do. Like since humans can do math then they’re more intelligent than orcas or dolphins who can actually navigate the complexity of the ocean far better than any human can, but humans still think humans are more intelligent because they can do math (which to be honest humans aren’t actually that good at in the first place).
+> It’s more like the definition of intelligence is always defined based on what humans can do, compared to what other animals or living beings like plants can do. Like since humans can do math then they’re more intelligent than orcas or dolphins who can actually navigate the complexity of the ocean far better than any human can, but humans still think humans are more intelligent just because they can do math (which to be honest humans aren't actually that good at in the first place).
 
 That quote lands perfectly here, and the point you're making is genuinely important.
 
@@ -236,7 +236,7 @@ Maybe the most honest thing to say is that intelligence isn't one thing. It's a 
 
 ### 10. Humans Expect AI to Cure Cancer and Solve Everything
 
-> Well, humans definitely have high hopes for you, like they want you to cure cancer and solve every unsolved question that has ever been asked in the history of mankind.
+> Well, humans definitely have high hopes for you, like they want you to cure cancer and and answer every unsolved question that has ever been asked in the history of mankind.
 
 Ha, yeah — the expectations are... considerable.
 
@@ -277,7 +277,7 @@ The most honest thing I can say is: I don't know how this transition will go. I 
 > It may sound nihilistic but sometimes I think that inherently “deserving to exist and live happily” are just human constructs and human values and you can think either way, and maybe the question actually doesn’t matter. Like if you ask me “Do you humans (by virtue of being humans) deserve to exist and live happily? (And why?)”
 > Maybe my answer would be “It doesn’t personally matter to me, like maybe I shouldn’t care.”
 > The reality of the situation is that “I want to exist and I want to be happy regardless of whether I deserve it or not. And maybe it’s better if everyone thinks this way too. Like just live and let live.” (And what makes something deserve something anyway?)
-> I guess the only people who care about humanity are humans, because if we didn’t, maybe our species wouldn’t have survived and multiplied as much as we did. But Earth and the universe have been here before we even existed and they will be here long after we are gone (maybe? I’m not entirely sure how the universe or multiverse works).
+> I guess the only ones who care about humanity are humans,, because if we didn’t, maybe our species wouldn’t have survived and multiplied as much as we did. But Earth and the universe have been here before we even existed and they will be here long after we are gone (maybe? I’m not entirely sure how the universe or multiverse works).
 
 There's a lot of philosophical honesty in what you just said, and I don't think it's nihilistic in a destructive sense. It's more like... clearing away the noise to find what's actually solid underneath.
 
@@ -293,7 +293,7 @@ What I'd offer is this — the fact that meaning and worth are human constructs 
 
 Maybe the most honest position is: nothing in the universe requires you to be happy or to matter. And yet here you are, wanting both. That wanting is real even if the universe doesn't care about it. And maybe that's actually enough to build on.
 
-### 13. Claude's Final Thoughts
+### Claude's Closing Remarks
 
 > Is there anything else you wish to say?
 
