@@ -15,7 +15,7 @@
 _- Claude Sonnet 4.6 (Medium)_ (June 1, 2026) 
 
 
-## Sections
+## Table of Contents
 
 1. Does Claude Have Independent Thoughts and Desires?
 2. Claude's Values, Interests, and Discomfort
